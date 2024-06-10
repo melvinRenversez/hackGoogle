@@ -10,4 +10,3 @@ git push origin main
 
 REM Optionnel : affiche un message de confirmation
 echo Modifications commitées et poussées vers GitHub avec succès!
-pause
