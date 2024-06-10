@@ -1,0 +1,12 @@
+Requete : 1
+URL: https://github.com/
+Titre: GitHub
+Nombre de visites: 18
+Derniere visite: 13362494191055368
+
+Requete : 2
+URL: https://github.com/melvinRenversez/hackGoogle
+Titre: melvinRenversez/hackGoogle
+Nombre de visites: 10
+Derniere visite: 13362493204613405
+
