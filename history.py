@@ -21,7 +21,6 @@ cursor.execute(query)
 
 # Affichage des résultats
 i = 0
-i = 0
 with open("history.txt", "w", encoding="utf-8") as txt:
     for row in cursor.fetchall():
         i += 1
